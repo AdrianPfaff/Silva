@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" "D:\Unreal Projects\ArenaGame\ArenaGame.uproject" -game -log
